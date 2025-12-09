@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7932754,
-    -122.3963589
+    "On Adams' Construction of The Stable Homotopy Category<br />MIT Mathematics Department; Cambridge, MA, USA",
+    42.3656347,
+    -71.1040018
   ]
 ];
