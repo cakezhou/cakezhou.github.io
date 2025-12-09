@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "On Segal's Categories and Cohomology Theories<br />MIT Mathematics Department; Cambridge, MA, USA",
+    42.3656347,
+    -71.1040018
   ],
   [
     "Matrices and their Applications in Quantum Mechanics<br />Wellesley College Annual Ruhlman Conference; Wellesley, MA, USA",
