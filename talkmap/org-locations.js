@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Introduction to Quillen's Homotopical Algebra: Model Categories<br />MIT Mathematics Department; Cambridge, MA, USA",
+    42.3656347,
+    -71.1040018
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
