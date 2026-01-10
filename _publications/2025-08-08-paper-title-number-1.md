@@ -1,5 +1,5 @@
 ---
-title: "Revising the Equivariant Multiplicative Infinite Loop Space: P-Pseudoalgebras and Γ-Categories"
+title: 'Symmetric Monoidal Categories, $\PP$-Pseudoalgebras, and $\Gamma$-Categories'
 collection: publications
 category: draft
 permalink: /publication/2025-08-08-paper-title-number-1
