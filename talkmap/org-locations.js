@@ -10,12 +10,17 @@ var addressPoints = [
     -71.2925571
   ],
   [
-    "Introduction to Quillen's Homotopical Algebra: Model Categories<br />MIT Mathematics Department; Cambridge, MA, USA",
+    "On Adams' Construction of The Stable Homotopy Category<br />MIT Mathematics Department; Cambridge, MA, USA",
     42.3656347,
     -71.1040018
   ],
   [
-    "On Adams' Construction of The Stable Homotopy Category<br />MIT Mathematics Department; Cambridge, MA, USA",
+    "The Equivalence of Categories Between $\\mathcal{P}$-pseudoalgebras and $\\mathcal{F}$-categories<br />University of Chicago Mathematics REU; Chicago, IL, USA",
+    41.8755616,
+    -87.6244212
+  ],
+  [
+    "Introduction to Quillen's Homotopical Algebra: Model Categories<br />MIT Mathematics Department; Cambridge, MA, USA",
     42.3656347,
     -71.1040018
   ]
