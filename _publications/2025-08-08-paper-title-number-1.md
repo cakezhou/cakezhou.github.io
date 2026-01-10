@@ -1,6 +1,6 @@
 ---
 title: "Revising the Equivariant Multiplicative Infinite Loop Space: P-Pseudoalgebras and Γ-Categories"
-collection: papers
+collection: publications
 category: draft
 permalink: /publication/2025-08-08-paper-title-number-1
 excerpt: 'This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno.'
