@@ -1,5 +1,5 @@
 ---
-title: "An Equivalence of Categories between Symmetric Monoidal Categories and P-Pseudoalgebras"
+title: "Unbiased Characterization of Symmetric Monoidal Categories"
 collection: publications
 category: draft
 permalink: /publication/2025-08-08-paper-title-number-2
