@@ -1,6 +1,6 @@
 ---
 title: "An Equivalence of Categories between Symmetric Monoidal Categories and P-Pseudoalgebras"
-collection: papers
+collection: publications
 category: draft
 permalink: /publication/2025-08-08-paper-title-number-2
 excerpt: 'This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories.'
