@@ -3,7 +3,8 @@ title: 'Symmetric Monoidal Categories, $\PP$-Pseudoalgebras, and $\Gamma$-Catego
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-08-paper-title-number-1
-excerpt: 'This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno.'
+excerpt: 'This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno. This paper will be available at [UchicagoREU2025]([https://arxiv.org/abs/2301.12345](https://math.uchicago.edu/~may/REU2025/)).'
+
 #date: 2025-12-08
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
