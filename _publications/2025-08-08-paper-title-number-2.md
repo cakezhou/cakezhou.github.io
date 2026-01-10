@@ -7,7 +7,7 @@ excerpt: 'This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zha
 #date: 2010-10-01
 #venue: 'Journal 1'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'https://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://math.uchicago.edu/~may/REU2025/'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
