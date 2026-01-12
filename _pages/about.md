@@ -12,9 +12,9 @@ My name is Cammy. I am an undergraduate at Wellesley College. My mathematical in
 This website is currently under construction...
 
 
-Math
-------
+#Math
+#------
 
 
-Other
-------
+#Other
+#------
