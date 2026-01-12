@@ -2,7 +2,7 @@
 title: "Unbiased Characterization of Symmetric Monoidal Categories"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-08-paper-title-number-2/
+permalink: /publication/2025-08-08-paper-MLRZZ
 excerpt: 'This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories.'
 #date: 2010-10-01
 #venue: 'Journal 1'
