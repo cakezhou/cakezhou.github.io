@@ -30,5 +30,5 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 * **18.705 Commutative Algebra** 
 
 ## Other commitments
-* **Research Fellow**, [Institute for Mathematics and Democracy](https://www.youtube.com/@InstituteForMathematicsAndDemocracy)
-* **Participant**, MIT Algebraic Topology Seminar
+* **Research Fellow**, [Institute for Mathematics and Democracy](https://mathematics-democracy-institute.org/)
+* **Participant**, [MIT Algebraic Topology Seminar](https://math.mit.edu/topology/)
