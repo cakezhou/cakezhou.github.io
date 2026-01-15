@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile-pic1.jpg"
   name             : "Cammy Zhou"
-  pronouns         : "she/her"  
+  #pronouns         : "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Wellesley College"
+  #location         : "Wellesley College"
   employer         : # "Red Brick University"
   uri              : #  URL
   #email            : "kz105@wellesley.edu" 
