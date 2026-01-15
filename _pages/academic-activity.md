@@ -22,12 +22,12 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 * **IAS Park City Mathematics Institute Summer School, UT, US** (July 2024)
 * **Undergraduate Research Opportunities Program, MIT, MA, US** (September 2024)
 
-## Selected Graduate Coursework
-* **Kan Seminar** (MIT 18.919)
-* **Algebraic Topology II** (MIT 18.906)
-* **Topics in Homotopy Theory** (MIT 18.909)
-* **Commutative Algebra** (MIT 18.705)
-* **Algebraic Geometry** (Wellesley 349)
+## Selected Graduate Coursework at MIT
+* **18.917 Topics in Homotopy Theory** (Spring 2026)
+* **18.919 Kan Seminar**
+* **18.725 Algebraic Geometry** 
+* **18.906 Algebraic Topology II**
+* **18.705 Commutative Algebra** 
 
 ## Other commitments
 * **Research Fellow**, [Institute for Mathematics and Democracy](https://www.youtube.com/@InstituteForMathematicsAndDemocracy)
