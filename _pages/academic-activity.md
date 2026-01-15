@@ -9,9 +9,11 @@ author_profile: true
 I serve as a Teaching Assistant in the Mathematics Department at Wellesley College.
 
 * **MATH 206: Linear Algebra** (Spring 2026)
-* **MATH 306: Topology** (Fall 2025)
-* **MATH 302: Elements of Analysis I** (Spring 2025)
-* **MATH 206: Linear Algebra** (Spring 2025)
+* **MATH 305: Abstract Algebra** (Fall 2025)
+* **MATH 302: Elements of Analysis** (Spring 2025)
+* **MATH 307: Topology** (Fall 2024)
+* **MATH 225: Combinatorics and Graph Theory** (Spring 2024)
+* **MATH 116: Calculus II** (Fall 2023)
 
 ## Conferences & Summer Schools
 * **IAS/PCMI – Graduate Summer School** (July 2025)
