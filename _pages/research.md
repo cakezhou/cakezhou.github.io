@@ -12,13 +12,13 @@ author_profile: true
 <br> This is my senior thesis work supervised by Jeremy Hahn (MIT) and Philip Hirschhorn (Wellesley College).
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
-<br> *Draft, 2025*
-<br> This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno.
+<br> *REU paper, 2025*
+<br> This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno. The paper is currently under review and will be posted here as soon as it is ready.
 <br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
 **Unbiased Characterization of Symmetric Monoidal Categories**
 <br> *Draft, 2025*
-<br> This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories.
+<br> This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories. The paper is currently under review and will be posted here as soon as it is ready.
 <br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
 **Entries of Bisymmetric Matrices and Their Spectra**
