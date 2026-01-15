@@ -14,12 +14,12 @@ author_profile: true
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
 <br> *Draft, 2025*
 <br> This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno.
-<br> [[PDF]](put-your-link-here)
+<br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
 **Unbiased Characterization of Symmetric Monoidal Categories**
 <br> *Draft, 2025*
 <br> This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories.
-<br> [[PDF]](put-your-link-here)
+<br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
 **Entries of Bisymmetric Matrices and Their Spectra**
 <br> *Draft, 2024*
