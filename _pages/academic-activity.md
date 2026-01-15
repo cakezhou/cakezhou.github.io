@@ -16,10 +16,11 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 * **MATH 116: Calculus II** (Fall 2023)
 
 ## Conferences & Summer Schools
-* **IAS/PCMI – Graduate Summer School** (July 2025)
-* **UChicago Mathematics REU** (June – August 2025)
-* **IAS Women and Mathematics (WAM)** (May 2025)
-* **GROW Conference, Columbia University** (September 2024)
+* **UChicago Mathematics REU, University of Chicago, IL, US** (June – August 2025)
+* **IAS Women+ in Mathematics, Institute for Advanced Studies, NJ, US** (May 2025)
+* **GROW Conference, Columbia University, NY, US** (September 2024)
+* **IAS Park City Mathematics Institute Summer School, UT, US** (July 2024)
+* **Undergraduate Research Opportunities Program, MIT, MA, US** (September 2024)
 
 ## Selected Graduate Coursework
 * **Kan Seminar** (MIT 18.919)
