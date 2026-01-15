@@ -30,7 +30,7 @@ author:
   location         : "Wellesley College"
   employer         : # "Red Brick University"
   uri              : #  URL
-  email            : "kz105@wellesley.edu" 
+  #email            : "kz105@wellesley.edu" 
 
   # Academic websites
   academia         : # URL
