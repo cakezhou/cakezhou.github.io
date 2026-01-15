@@ -17,7 +17,7 @@ author_profile: true
 <br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
 **Unbiased Characterization of Symmetric Monoidal Categories**
-<br> *Draft, 2025*
+<br> *REU paper, 2025*
 <br> This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories. The paper is currently under review and will be posted here as soon as it is ready.
 <br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
