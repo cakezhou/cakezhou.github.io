@@ -16,15 +16,15 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 * **MATH 116: Calculus II** (Fall 2023)
 
 ## Conferences & Summer Schools
-* **UChicago Mathematics REU, University of Chicago, IL, US** (June – August 2025)
-* **IAS Women+ in Mathematics, Institute for Advanced Studies, NJ, US** (May 2025)
-* **GROW Conference, Columbia University, NY, US** (September 2024)
-* **IAS Park City Mathematics Institute Summer School, UT, US** (July 2024)
-* **Undergraduate Research Opportunities Program, MIT, MA, US** (September 2024)
+* **[UChicago Mathematics REU](https://math.uchicago.edu/~may/REU2025/), University of Chicago, IL, US** (June – August 2025)
+* **[IAS Women+ in Mathematics](https://www.ias.edu/math/wam), Institute for Advanced Studies, NJ, US** (May 2025)
+* **[GROW Conference](https://grow2024.math.columbia.edu/), Columbia University, NY, US** (September 2024)
+* **[IAS Park City Mathematics Institute Summer School](https://www.ias.edu/pcmi), UT, US** (July 2024)
+* **[Undergraduate Research Opportunities Program](https://urop.mit.edu/), MIT, MA, US** (September 2024)
 
 ## Selected Graduate Coursework at MIT
-* **18.917 Topics in Algebraic Topology** (Spring 2026)
-* **18.919 Kan Seminar**
+* **18.917 Topics in Algebraic Topology** 
+* **18.919 [Kan Seminar](https://math.mit.edu/~hrm/kansem/)**
 * **18.725 Algebraic Geometry I** 
 * **18.906 Algebraic Topology I**
 * **18.705 Commutative Algebra** 
