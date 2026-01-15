@@ -23,10 +23,10 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 * **Undergraduate Research Opportunities Program, MIT, MA, US** (September 2024)
 
 ## Selected Graduate Coursework at MIT
-* **18.917 Topics in Homotopy Theory** (Spring 2026)
+* **18.917 Topics in Algebraic Topology** (Spring 2026)
 * **18.919 Kan Seminar**
-* **18.725 Algebraic Geometry** 
-* **18.906 Algebraic Topology II**
+* **18.725 Algebraic Geometry I** 
+* **18.906 Algebraic Topology I**
 * **18.705 Commutative Algebra** 
 
 ## Other commitments
