@@ -13,6 +13,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
+   
+  - title: "Academic Activity"
+    url: /academic-activity/
 
 #  - title: "Teaching"
  #   url: /teaching/    
