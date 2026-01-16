@@ -66,6 +66,9 @@ author_profile: true
     </div>
   </div>
 
+  <br>
+  <br>
+
   <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; margin-bottom: 50px;">
      <div style="width: 55%; text-align: right;">
         </div>
@@ -79,12 +82,5 @@ author_profile: true
   </div>
 
 </div>
-
-<div style="width: 100%; margin-bottom: 40px;">
-  <img src="/images/monet-venice-brooklyn-1-M.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
-  
-  <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 5px; margin-bottom: 0;">
-    <em>Le Palais Ducal, Claude Monet, Brooklyn Museum</em>
-  </p>
 
 
