@@ -12,20 +12,18 @@ author_profile: true
 <br> This is my senior thesis work supervised by Jeremy Hahn (MIT) and Philip Hirschhorn (Wellesley College).
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
-<br> *REU paper, 2025*
+<br> *UChicago REU 2025*
 <br> This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno. The paper is currently under review and will be posted here as soon as it is ready.
 <br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
 <br> *with Peter May, Kyle Roke, Jason Liu, and Hongyi Zhang*
 <br> <small><em>UChicago REU 2025</em></small>
-<br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: Rfunctor">Draft available upon request.</a>
-<blockquote>
-  <small>
-    <strong>Abstract:</strong> [The goal of this paper to obtain an isomorphism of categories that is the heart of a simple multiplicative functor from a category of operadic pseudoalgebras to a category of Segalic pseudoalgebras. This fits into a nonequivariant version of highly structured algebraic $K$-theory, from symmetric monoidal categories to orthogonal spectra. In particular, it gives a functor from symmetric bimonoidal categories to $E_\infty$ ring spectra.]
-  </small>
+<br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: Rfunctor">Draft available upon request by email.</a>
+
+<blockquote style="font-style: normal; font-size: 0.9em;">
+  <strong>Abstract:</strong> The goal of this paper to obtain an isomorphism of categories that is the heart of a simple multiplicative functor from a category of operadic pseudoalgebras to a category of Segalic pseudoalgebras. This fits into a nonequivariant version of highly structured algebraic $K$-theory, from symmetric monoidal categories to orthogonal spectra. In particular, it gives a functor from symmetric bimonoidal categories to $E_\infty$ ring spectra.
 </blockquote>
-<br>
 
 **Unbiased Characterization of Symmetric Monoidal Categories**
 <br> *REU paper, 2025*
