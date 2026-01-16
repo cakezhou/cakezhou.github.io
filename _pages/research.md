@@ -12,13 +12,8 @@ author_profile: true
 <br> This is my senior thesis work supervised by Jeremy Hahn (MIT) and Philip Hirschhorn (Wellesley College).
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
-<br> *UChicago REU 2025*
-<br> This paper is joint work with Peter May, Kyle Roke, Jason Liu and Hongyi Zhang, on revising the infinite loop space machine established in recent work of May, Merling, Guillou, and Osorno. The paper is currently under review and will be posted here as soon as it is ready.
-<br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
-
-**Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
 <br> *with Peter May, Kyle Roke, Jason Liu, and Hongyi Zhang*
-<br> <small><em>UChicago REU 2025</em></small>
+<br> *UChicago REU 2025*
 <br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: Rfunctor">Draft available upon request by email.</a>
 
 <blockquote style="font-style: normal; font-size: 0.9em;">
@@ -26,9 +21,13 @@ author_profile: true
 </blockquote>
 
 **Unbiased Characterization of Symmetric Monoidal Categories**
-<br> *REU paper, 2025*
-<br> This is joint work with Peter May, Jason Liu, Kyle Roke and Hongyi Zhang, formalizing an equivalence of categories. The paper is currently under review and will be posted here as soon as it is ready.
-<br> [[PDF]](https://math.uchicago.edu/~may/REU2025/REUPapers/Zhou,Keming.pdf)
+<br> *with Kyle Roke, Jason Liu, and Hongyi Zhang*
+<br> *UChicago REU 2025*
+<br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: SymmMon">Draft available upon request by email.</a>
+
+<blockquote style="font-style: normal; font-size: 0.9em;">
+  <strong>Abstract:</strong> In this paper, we aim to provide a characterization of symmetric monoidal categories, identifying them as the natural inputs for the equivariant multiplicative infinite loop space machine developed in \cite{GMMO3}. Specifically, we give a self-contained proof of an equivalence between the category of symmetric monoidal categories and the category of $\PP$-pseudoalgebras, where $\PP$ is the categorical Barratt-Eccles operad. Unlike the previous approach by Yau \cite{Yau2}, we establish this equivalence without assuming normality of the operads or the corresponding categories. We construct explicit functors between these categories and demonstrate that they form an equivalence.
+</blockquote>
 
 **Entries of Bisymmetric Matrices and Their Spectra**
 <br> *Draft, 2024*
