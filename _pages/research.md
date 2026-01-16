@@ -9,7 +9,7 @@ author_profile: true
 
 **Uniqueness of p-local Spectra: Revisiting and Generalizing Adams-Priddy Theorem**
 <br> *Advisor: Jeremy Hahn (MIT)*
-<br> *Senior Thesis 2025-2026*
+<br> Senior Thesis 2025-2026
 <br> **Status:** In prepartion. 
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
