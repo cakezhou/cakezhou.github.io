@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at Wellesley College. My mathematical interests broadly lie in the intersection of algebra, topology and geometry. I use this website to host my mathematical work and occasional blog posts.
+I am a senior at Wellesley College applying to graduate schools this Fall. My current mathematical exploration focuses on the intersection of algebra, topology and geometry. I will use this website to host my interests and log my progress.
 
 Email: kz105 AT wellesley DOT edu
 
