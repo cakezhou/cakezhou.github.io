@@ -24,6 +24,8 @@ author_profile: true
 <div style="max-width: 800px; margin: 0 auto;">
 
 <br>
+<br>
+
   <h2 style="text-align: center; letter-spacing: 2px; text-transform: uppercase; font-size: 1.4em; margin-bottom: 40px;">
     Music
   </h2>
