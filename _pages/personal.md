@@ -43,7 +43,7 @@ author_profile: true
     <div style="flex: 1.5; min-width: 300px;">
       <h3 style="margin-top: 0;">Vocal Performance</h3>
       <p style="line-height: 1.8; font-size: 1.05em;">
-        I have been singing in choir and currently perform with the <strong>Wellesley College Chamber Singers</strong>. 
+        I have been singing in choir and currently perform with the Wellesley College Chamber Singers. 
       </p>
       
       <div style="margin-top: 20px; border-left: 3px solid #ddd; padding-left: 15px;">
