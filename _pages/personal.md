@@ -7,6 +7,7 @@ author_profile: true
 
 <br>
 <br>
+<br>
 <div style="width: 100%; margin-bottom: 40px;">
   <img src="/images/monet-lilies-moma-1.JPEG" alt="Water Lilies, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
   
@@ -17,7 +18,7 @@ author_profile: true
   <br>
   
   <p style="text-align: center; font-style: italic; font-family: serif; color: #555; margin-top: 15px; font-size: 1.1em;">
-    Outside of math, I explore art, music, and philosophy.
+    Outside of math, I explore art, music, and philosophy. This page displays some of my favoratie paintings (photos taken by me). 
   </p>
 </div>
 
@@ -41,20 +42,20 @@ author_profile: true
     </div>
 
     <div style="flex: 1.5; min-width: 300px;">
-      <h3 style="margin-top: 0;">Vocal Performance</h3>
+      <h3 style="margin-top: 0;"></h3>
       <p style="line-height: 1.8; font-size: 1.05em;">
-        I have been singing in choir and currently perform with the Wellesley College Chamber Singers. 
+        I like playing the piano and singing. I currently perform with the Wellesley College Chamber Singers. 
       </p>
       
       <div style="margin-top: 20px; border-left: 3px solid #ddd; padding-left: 15px;">
         <p style="margin-bottom: 10px;">
-          <strong>Wellesley College Choral Concert Concert</strong><br>
+          Wellesley College Choral Concert Concert<br>
           <a href="https://youtu.be/gKQ24bJIxIQ?si=FHXowmSVR6CKKS5d&t=599" target="_blank" style="text-decoration: none; color: #b76e79;">
             ▶ Watch on YouTube (Starts at 9:59)
           </a>
         </p>
         <p>
-          <strong>Beethoven Symphony No. 9</strong><br>
+          Beethoven Symphony No. 9
           <span style="font-size: 0.9em;">with Brandeis Wellesley Orchestra and choruses from Brandeis and WPI</span><br>
           <a href="https://youtu.be/GosJQI7p7-Q?si=T1LhQ5ErSf0hVbM1&t=3410" target="_blank" style="text-decoration: none; color: #b76e79;">
             ▶ Watch on YouTube (Starts at 56:50)
