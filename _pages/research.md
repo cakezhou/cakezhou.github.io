@@ -8,8 +8,9 @@ author_profile: true
 ## Papers
 
 **Uniqueness of p-local Spectra: Revisiting and Generalizing Adams-Priddy Theorem**
-<br> *Senior Thesis, 2026*
-<br> This is my senior thesis work supervised by Jeremy Hahn (MIT) and Philip Hirschhorn (Wellesley College).
+<br> *Advisor: Jeremy Hahn (MIT)*
+<br> *Senior Thesis 2025-2026*
+<br> **Status:** In prepartion. 
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
 <br> *with Peter May, Kyle Roke, Jason Liu, and Hongyi Zhang*
