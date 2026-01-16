@@ -18,7 +18,8 @@ author_profile: true
   <br>
   
   <p style="text-align: center; font-style: italic; font-family: serif; color: #555; margin-top: 15px; font-size: 1.1em;">
-    Outside of math, I explore art, music, and philosophy. This page displays some of my favoratie paintings (photos taken by me). 
+    Outside of math, I explore art, music, and philosophy.<br> 
+    This page displays some of my favoratie paintings (photos taken by me). 
   </p>
 </div>
 
