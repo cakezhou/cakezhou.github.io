@@ -9,10 +9,10 @@ author_profile: true
 <br>
 <br>
 <div style="width: 100%; margin-bottom: 40px;">
-  <img src="/images/monet-lilies-moma-1.JPEG" alt="Water Lilies, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
+  <img src="/images/monet-lilies-moma-1.JPEG" alt="Water Lilies, Claude Monet, MoMA" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
   
   <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 5px; margin-bottom: 0;">
-    <em>Water Lilies, Claude Monet, Brooklyn Museum</em>
+    <em>Water Lilies, Claude Monet, MoMA</em>
   </p>
   
   <br>
@@ -78,3 +78,18 @@ author_profile: true
   </div>
 
 </div>
+
+<div style="width: 100%; margin-bottom: 40px;">
+  <img src="/images/monet-venice-brooklyn-1-M.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
+  
+  <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 5px; margin-bottom: 0;">
+    <em>Le Palais Ducal, Claude Monet, Brooklyn Museum</em>
+  </p>
+
+<div style="width: 100%; margin-bottom: 40px;">
+  <img src="/images/monet-venice-brooklyn-1-M.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
+  
+  <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 5px; margin-bottom: 0;">
+    <em>Le Palais Ducal, Claude Monet, Brooklyn Museum</em>
+  </p>
+
