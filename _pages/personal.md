@@ -63,9 +63,9 @@ author_profile: true
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; margin-bottom: 50px;">
-     <div style="width: 60%; text-align: right;">
+     <div style="width: 55%; text-align: right;">
         </div>
-     <div style="width: 35%; min-width: 200px;">
+     <div style="width: 40%; min-width: 200px;">
         <img src="/images/degas-rehearsal-harvard-L.jpeg" alt="The Rehearsal, Edgar Degas, Harvard Art Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 10px rgba(0,0,0,0.15);">
         
         <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 5px;">
