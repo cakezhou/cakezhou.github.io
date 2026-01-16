@@ -20,8 +20,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Personal"
-    url: /personal/
+  #- title: "Personal"
+    #url: /personal/
 
 #  - title: "Teaching"
  #   url: /teaching/    
