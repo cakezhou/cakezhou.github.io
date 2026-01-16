@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="width: 100%; margin-bottom: 40px;">
-  <img src="monet-lilies-moma-1.JPEG" alt="Water Lilies, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
+  <img src="/images/monet-lilies-moma-1.JPEG" alt="Water Lilies, Claude Monet, Brooklyn Museum" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
   <p style="text-align: center; font-style: italic; font-family: serif; color: #555; margin-top: 15px; font-size: 1.1em;">
     "Outside of math, I explore art, music, and philosophy."
   </p>
@@ -21,8 +21,8 @@ author_profile: true
   <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; margin-bottom: 50px;">
     
     <div style="flex: 1; min-width: 250px;">
-      <img src="renoir-piano-chicago-M.jpeg" alt="Woman at the Piano, Pierre-Auguste Renoir, Art Institute of Chicago" style="width: 100%; border-radius: 2px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-      <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 5px;"><em>Photo from [Museum Name]</em></p>
+      <img src="/images/renoir-piano-chicago-M.jpeg" alt="Woman at the Piano, Pierre-Auguste Renoir, Art Institute of Chicago" style="width: 100%; border-radius: 2px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+      <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 5px;"><em>Photo from Art Institute of Chicago</em></p>
     </div>
 
     <div style="flex: 1.5; min-width: 300px;">
@@ -50,11 +50,3 @@ author_profile: true
   </div>
 
   <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; margin-bottom: 50px;">
-     <div style="width: 60%; text-align: right;">
-        </div>
-     <div style="width: 35%; min-width: 200px;">
-        <img src="degas-rehearsal-harvard-L.jpeg" alt="The Rehearsal, Edgar Degas, Harvard Art Museum" style="width: 100%; border-radius: 2px; transform: rotate(2deg); box-shadow: 3px 3px 10px rgba(0,0,0,0.15);">
-     </div>
-  </div>
-
-</div>
