@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cammy Zhou"
+#title: "Cammy Zhou"
 author_profile: true
 redirect_from: 
   - /about/
