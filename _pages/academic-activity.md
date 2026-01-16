@@ -32,5 +32,5 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 ## Other commitments
 * **Research Fellow**, [Institute for Mathematics and Democracy](https://mathematics-democracy-institute.org/)
   * Presentation on the Electoral College System. [PDF]
-  * Article on Math and Democracy published in MAA FOCUS June/July 2024. [[Link]](https://digitaleditions.walsworthprintgroup.com/publication/?i=823119&p=31&view=issueViewer) 
+  * Article *Crafting Fairness With Math* on an interview with Jennifer Wilson published in MAA FOCUS June/July 2024. [[Link]](https://digitaleditions.walsworthprintgroup.com/publication/?i=823119&p=31&view=issueViewer) 
 * **Participant**, [MIT Algebraic Topology Seminar](https://math.mit.edu/topology/)
