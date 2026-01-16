@@ -9,7 +9,7 @@ author_profile: true
 
 **Uniqueness of p-local Spectra: Revisiting and Generalizing Adams-Priddy Theorem**
 <br> *Advisor: Jeremy Hahn (MIT)*
-<br> Senior Thesis 2025-2026
+<br> *Senior Thesis 2025-2026*
 <br> **Status:** In prepartion. 
 
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
@@ -31,11 +31,13 @@ author_profile: true
 </blockquote>
 
 **Entries of Bisymmetric Matrices and Their Spectra**
-<br> *Draft, 2024*
-<br> This is product of a UROP project mentored by John Urschel at MIT.
-<br> [[PDF]](put-your-link-here)
+<br> *Advisor: John Urschel (MIT)*
+<br> *MIT UROP 2024*
+<br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: SymmMon">Draft available upon request by email.</a>
 
-<br>
+<blockquote style="font-style: normal; font-size: 0.9em;">
+  <strong>Abstract:</strong> Bisymmetric matrices are n by n matrices that are both symmetric and centrosymmetric. Due to their structural symmetries, they are significant mathematical tools in the study of various linear algebra, computer science and quantum mechanics problems. In this work, we discuss the relations between the entries of bisymmetric tridiagonal matrices and their eigenvalues. In particular, we show that the entries can be written as rational functions of the eigenvalues explicitly. Applications of this finding include but are not restricted to partially proving the Rational Weights Conjecture. 
+</blockquote>
 
 ## Talks
 
@@ -45,7 +47,6 @@ author_profile: true
 
 **On Segal’s Categories and Cohomology Theories**
 <br> *MIT Kan Seminar, April 28, 2025*
-<br> This talk was given in the Kan Seminar at MIT.
 
 **Matrices and their Applications in Quantum Mechanics**
 <br> *Wellesley College Ruhlman Conference, April 16, 2025*
@@ -53,8 +54,6 @@ author_profile: true
 
 **Introduction to Quillen’s Homotopical Algebra: Model Categories**
 <br> *MIT Kan Seminar, April 4, 2025*
-<br> This talk was given in the Kan Seminar at MIT.
 
 **On Adams’ Construction of The Stable Homotopy Category**
 <br> *MIT Kan Seminar, February 28, 2025*
-<br> This talk was given in the Kan Seminar at MIT.
