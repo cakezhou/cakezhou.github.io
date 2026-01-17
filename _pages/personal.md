@@ -29,6 +29,10 @@ author_profile: true
 <br>
 
 <div style="max-width: 900px; margin: 0 auto;">
+
+  <h2 style="text-align: center; letter-spacing: 2px; text-transform: uppercase; font-size: 1.4em; margin-bottom: 40px;">
+    Music
+  </h2>
   
   <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 50px;">
     
