@@ -44,7 +44,7 @@ author_profile: true
       </p>
     </div>
 
-    <div style="flex: 1.5; min-width: 300px; margin-top: 100px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+    <div style="flex: 1.5; min-width: 300px; margin-top: 120px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
       <h3 style="margin-top: 0;"></h3>
       <p style="line-height: 1.8; font-size: 1.05em; margin-top: 0;">
         I like playing the piano and singing. I currently perform with the Wellesley College Chamber Singers. 
