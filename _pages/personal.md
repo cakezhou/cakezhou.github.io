@@ -8,6 +8,7 @@ author_profile: true
 <br>
 <br>
 <br>
+
 <div style="width: 100%; margin-bottom: 40px;">
   <img src="/images/monet-lilies-moma-1.JPEG" alt="Water Lilies, Claude Monet, MoMA" style="width: 100%; height: 300px; object-fit: cover; border-radius: 2px;">
   
@@ -19,14 +20,14 @@ author_profile: true
   
   <p style="text-align: center; font-style: italic; font-family: serif; color: #555; margin-top: 15px; font-size: 1.1em;">
     Outside of math, I explore art, music, and philosophy.<br> 
-    This page displays some of my favoratie paintings (photos taken by me). 
+    This page displays some of my favorite paintings (photos taken by me). 
   </p>
 </div>
 
-<div style="max-width: 800px; margin: 0 auto;">
+<div style="max-width: 900px; margin: 0 auto;">
 
-<br>
-<br>
+  <br>
+  <br>
 
   <h2 style="text-align: center; letter-spacing: 2px; text-transform: uppercase; font-size: 1.4em; margin-bottom: 40px;">
     Music
@@ -50,7 +51,7 @@ author_profile: true
       
       <div style="margin-top: 20px; border-left: 3px solid #ddd; padding-left: 15px;">
         <p style="margin-bottom: 10px;">
-          Wellesley College Choral Concert Concert<br>
+          Wellesley College Choral Concert<br>
           <a href="https://youtu.be/gKQ24bJIxIQ?si=FHXowmSVR6CKKS5d&t=599" target="_blank" style="text-decoration: none; color: #b76e79;">
             ▶ Watch on YouTube (Starts at 9:59)
           </a>
@@ -86,39 +87,50 @@ author_profile: true
 <br>
 <br>
 
-<div style="max-width: 900px; margin: 60px auto; display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
+<div style="max-width: 900px; margin: 60px auto; display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
 
-  <div style="flex: 1.5; min-width: 300px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #b76e79; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+  <div style="flex: 1.3; min-width: 300px;">
     
-    <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
-      Philosophy & Paradox
-    </h3>
-    
-    <p style="line-height: 1.8; color: #444; font-size: 1.05em;">
-      I turn to philosophy for the same reason I do math: I enjoy the peace of mind that comes from thinking rigorously about difficult things. I like metaphysics and epistemology, where I challenge my intuitions on knowledge and existence, and explore how mathematics fits into the picture.
-    </p>
-    
-    <p style="margin-top: 25px; margin-bottom: 15px; font-weight: bold; color: #555;">
-      Paradoxes I’ve been enjoying recently:
-    </p>
+    <div style="padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #78909c; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+      <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
+        Philosophy & Paradox
+      </h3>
+      <p style="line-height: 1.8; color: #444; font-size: 1.05em; margin-bottom: 0;">
+        I turn to philosophy for the same reason I do math: I enjoy the peace of mind that comes from thinking rigorously about difficult things. I like metaphysics and epistemology, where I challenge my intuitions on knowledge and existence, and explore how mathematics fits into the picture.
+      </p>
+    </div>
 
-    <ul style="line-height: 1.9; color: #444; list-style-type: square; padding-left: 20px;">
-      <li style="margin-bottom: 12px;">
-        <strong>Zeno’s Paradoxes:</strong> Why motion shouldn't be possible, and what the continuum really looks like.
-      </li>
-      <li>
-        <strong>The Skeptic’s Life:</strong> Finding tranquility by admitting you don't know (<em>epoché</em>).
-      </li>
-    </ul>
+    <div style="margin-top: 80px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #78909c; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+       <p style="margin-top: 0; margin-bottom: 15px; font-weight: bold; color: #555;">
+        Paradoxes I’ve been enjoying recently:
+      </p>
+      <ul style="line-height: 1.9; color: #444; list-style-type: square; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 12px;">
+          <strong>Zeno’s Paradoxes:</strong> Why motion shouldn't be possible, and what the continuum really looks like.
+        </li>
+        <li>
+          <strong>The Skeptic’s Life:</strong> Finding tranquility by admitting you don't know (<em>epoché</em>).
+        </li>
+      </ul>
+    </div>
+  
   </div>
 
-  <div style="flex: 1; min-width: 250px;">
-    <img src="/images/pissaro-blvd-harvard-L.jpeg" alt="Boulevard Montmartre, Camille Pissaro, Harvard Art Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
-    <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
-      Boulevard Montmartre, Camille Pissaro, Harvard Art Museum
-    </p>
+  <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column;">
+    
+    <div style="margin-top: 20px; margin-bottom: 60px;">
+      <img src="/images/pissaro-blvd-harvard-L.jpeg" alt="Boulevard Montmartre, Camille Pissarro" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
+      <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
+        Boulevard Montmartre, Camille Pissarro
+      </p>
+    </div>
+
+    <div style="margin-left: 20px;"> <img src="/images/monet-lilies-brooklyn-1 L.jpeg" alt="MLe Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
+      <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
+        Le Palais Ducal, Claude Monet, Brooklyn Museum
+      </p>
+    </div>
+
   </div>
 
 </div>
-
-
