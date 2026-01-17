@@ -33,19 +33,18 @@ author_profile: true
     Music
   </h2>
 
-  <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; margin-bottom: 50px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 50px;">
     
-    <div style="flex: 1; min-width: 250px;">
-      <img src="/images/renoir-piano-chicago-M.jpeg" alt="Woman at the Piano, Pierre-Auguste Renoir, Art Institute of Chicago" style="width: 100%; border-radius: 2px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <div style="flex: 1; min-width: 250px; margin-top: 20px;"> <img src="/images/renoir-piano-chicago-M.jpeg" alt="Woman at the Piano, Pierre-Auguste Renoir" style="width: 100%; border-radius: 2px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
       
       <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 5px;">
         <em>Woman at the Piano, Pierre-Auguste Renoir, Art Institute of Chicago</em>
       </p>
     </div>
 
-    <div style="flex: 1.5; min-width: 300px;">
+    <div style="flex: 1.5; min-width: 300px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
       <h3 style="margin-top: 0;"></h3>
-      <p style="line-height: 1.8; font-size: 1.05em;">
+      <p style="line-height: 1.8; font-size: 1.05em; margin-top: 0;">
         I like playing the piano and singing. I currently perform with the Wellesley College Chamber Singers. 
       </p>
       
@@ -58,7 +57,7 @@ author_profile: true
         </p>
         <p>
           Beethoven Symphony No. 9
-          <span style="font-size: 0.9em;">with Brandeis Wellesley Orchestra and choruses from Brandeis and WPI</span><br>
+          <span style="font-size: 0.9em;">with Brandeis Wellesley Orchestra</span><br>
           <a href="https://youtu.be/GosJQI7p7-Q?si=T1LhQ5ErSf0hVbM1&t=3410" target="_blank" style="text-decoration: none; color: #b76e79;">
             ▶ Watch on YouTube (Starts at 56:50)
           </a>
@@ -74,8 +73,7 @@ author_profile: true
      <div style="width: 55%; text-align: right;">
         </div>
      <div style="width: 40%; min-width: 200px;">
-        <img src="/images/degas-rehearsal-harvard-L.jpeg" alt="The Rehearsal, Edgar Degas, Harvard Art Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 10px rgba(0,0,0,0.15);">
-        
+        <img src="/images/degas-rehearsal-harvard-L.jpeg" alt="The Rehearsal, Edgar Degas" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 10px rgba(0,0,0,0.15);">
         <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 5px;">
           <em>The Rehearsal, Edgar Degas, Harvard Art Museum</em>
         </p>
@@ -91,7 +89,7 @@ author_profile: true
 
   <div style="flex: 1.3; min-width: 300px;">
     
-    <div style="padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #78909c; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+    <div style="padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
       <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
         Philosophy & Paradox
       </h3>
@@ -100,7 +98,7 @@ author_profile: true
       </p>
     </div>
 
-    <div style="margin-top: 80px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #78909c; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+    <div style="margin-top: 120px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
        <p style="margin-top: 0; margin-bottom: 15px; font-weight: bold; color: #555;">
         Paradoxes I’ve been enjoying recently:
       </p>
@@ -118,14 +116,15 @@ author_profile: true
 
   <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column;">
     
-    <div style="margin-top: 20px; margin-bottom: 60px;">
+    <div style="margin-top: 80px;">
       <img src="/images/pissaro-blvd-harvard-L.jpeg" alt="Boulevard Montmartre, Camille Pissarro" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
       <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
         Boulevard Montmartre, Camille Pissarro
       </p>
     </div>
 
-    <div style="margin-left: 20px;"> <img src="/images/monet-lilies-brooklyn-1 L.jpeg" alt="MLe Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
+    <div style="margin-top: 150px;"> 
+      <img src="/images/monet-lilies-brooklyn-1 L.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
       <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
         Le Palais Ducal, Claude Monet, Brooklyn Museum
       </p>
@@ -134,3 +133,4 @@ author_profile: true
   </div>
 
 </div>
+
