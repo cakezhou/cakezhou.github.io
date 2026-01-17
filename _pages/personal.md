@@ -65,7 +65,6 @@ author_profile: true
   </div>
 
   <br>
-  <br>
 
   <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; margin-bottom: 50px;">
      <div style="width: 55%; text-align: right;">
