@@ -30,10 +30,6 @@ author_profile: true
 
 <div style="max-width: 900px; margin: 0 auto;">
 
-  <h2 style="text-align: center; letter-spacing: 2px; text-transform: uppercase; font-size: 1.4em; margin-bottom: 40px;">
-    Music
-  </h2>
-  
   <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 50px;">
     
     <div style="flex: 1; min-width: 250px;"> 
@@ -45,7 +41,9 @@ author_profile: true
     </div>
 
     <div style="flex: 1.5; min-width: 300px; margin-top: 120px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
-      <h3 style="margin-top: 0;"></h3>
+      <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
+        Music
+      </h3>
       <p style="line-height: 1.8; font-size: 1.05em; margin-top: 0;">
         I like playing the piano and singing. I currently perform with the Wellesley College Chamber Singers. 
       </p>
