@@ -82,11 +82,18 @@ author_profile: true
 
 <br>
 
-<div style="max-width: 900px; margin: 60px auto; display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
+<div style="max-width: 900px; margin: 0 auto;">
 
-  <div style="flex: 1.3; min-width: 300px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 80px;">
     
-    <div style="padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+    <div style="flex: 1; min-width: 250px;">
+      <img src="/images/pissaro-blvd-harvard-L.jpeg" alt="Boulevard Montmartre, Camille Pissarro" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
+      <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
+        Boulevard Montmartre, Camille Pissarro
+      </p>
+    </div>
+
+    <div style="flex: 1.3; min-width: 300px; margin-top: 60px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
       <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
         Philosophy & Paradox
       </h3>
@@ -95,7 +102,11 @@ author_profile: true
       </p>
     </div>
 
-    <div style="margin-top: 120px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 60px;">
+    
+    <div style="flex: 1.3; min-width: 300px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
        <p style="margin-top: 0; margin-bottom: 15px; font-weight: bold; color: #555;">
         Paradoxes I’ve been enjoying recently:
       </p>
@@ -108,21 +119,10 @@ author_profile: true
         </li>
       </ul>
     </div>
-  
-  </div>
 
-  <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column;">
-    
-    <div style="margin-top: 80px;">
-      <img src="/images/pissaro-blvd-harvard-L.jpeg" alt="Boulevard Montmartre, Camille Pissarro" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
-      <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
-        Boulevard Montmartre, Camille Pissarro
-      </p>
-    </div>
-
-    <div style="margin-top: 150px;"> 
+    <div style="flex: 1; min-width: 250px; margin-top: 80px;"> 
       <img src="/images/monet-venice-brooklyn-1-M.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
-      <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
+      <p style="text-align: center; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
         Le Palais Ducal, Claude Monet, Brooklyn Museum
       </p>
     </div>
@@ -130,4 +130,3 @@ author_profile: true
   </div>
 
 </div>
-
