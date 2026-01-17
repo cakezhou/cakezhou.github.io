@@ -83,4 +83,42 @@ author_profile: true
 
 </div>
 
+<br>
+<br>
+
+<div style="max-width: 900px; margin: 60px auto; display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
+
+  <div style="flex: 1.5; min-width: 300px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #b76e79; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
+    
+    <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
+      Philosophy & Paradox
+    </h3>
+    
+    <p style="line-height: 1.8; color: #444; font-size: 1.05em;">
+      I turn to philosophy for the same reason I do math: I enjoy the peace of mind that comes from thinking rigorously about difficult things. I like metaphysics and epistemology, where I challenge my intuitions on knowledge and existence, and explore how mathematics fits into the picture.
+    </p>
+    
+    <p style="margin-top: 25px; margin-bottom: 15px; font-weight: bold; color: #555;">
+      Paradoxes I’ve been enjoying recently:
+    </p>
+
+    <ul style="line-height: 1.9; color: #444; list-style-type: square; padding-left: 20px;">
+      <li style="margin-bottom: 12px;">
+        <strong>Zeno’s Paradoxes:</strong> Why motion shouldn't be possible, and what the continuum really looks like.
+      </li>
+      <li>
+        <strong>The Skeptic’s Life:</strong> Finding tranquility by admitting you don't know (<em>epoché</em>).
+      </li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <img src="/images/pissaro-blvd-harvard-L.jpeg" alt="Boulevard Montmartre, Camille Pissaro, Harvard Art Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
+    <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
+      Boulevard Montmartre, Camille Pissaro, Harvard Art Museum
+    </p>
+  </div>
+
+</div>
+
 
