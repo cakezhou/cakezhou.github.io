@@ -121,7 +121,7 @@ author_profile: true
     </div>
 
     <div style="margin-top: 150px;"> 
-      <img src="/images/monet-lilies-brooklyn-1 L.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
+      <img src="/images/monet-venice-brooklyn-1-M.jpeg" alt="Le Palais Ducal, Claude Monet, Brooklyn Museum" style="width: 100%; border-radius: 2px; box-shadow: 3px 3px 12px rgba(0,0,0,0.15);">
       <p style="text-align: right; font-size: 0.8em; color: #888; margin-top: 8px; font-style: italic;">
         Le Palais Ducal, Claude Monet, Brooklyn Museum
       </p>
