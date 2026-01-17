@@ -24,11 +24,12 @@ author_profile: true
   </p>
 </div>
 
+<br>
+<br>
+<br>
+
 <div style="max-width: 900px; margin: 0 auto;">
-
-  <br>
-  <br>
-
+  
   <div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 50px;">
     
     <div style="flex: 1; min-width: 250px;"> 
@@ -73,9 +74,7 @@ author_profile: true
         </p>
      </div>
   </div>
-
 </div>
-
 
 <div style="max-width: 900px; margin: 0 auto;">
 
