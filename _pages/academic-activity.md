@@ -21,6 +21,9 @@ I serve as a Teaching Assistant in the Mathematics Department at Wellesley Colle
 * **[GROW Conference](https://grow2024.math.columbia.edu/), Columbia University, NYC, NY** (September 2024)
 * **[IAS Park City Mathematics Institute Summer School](https://www.ias.edu/pcmi), Park City, UT** (July 2024)
 * **[Undergraduate Research Opportunities Program](https://urop.mit.edu/), MIT, Cambridge, MA** (March - December 2024)
+* **[FRG Workshop on Definability, Decidability and Computability](https://www.math.harvard.edu/event/ddc-cambridge-frg-workshop-on-definability-decidability-and-computability-ddccambridge/), Harvard University, Cambridge, MA** (August 2024)
+* **[Statistical and Dynamical Combinatorics, A Mathematical Conference, and celebration of Jim Propp's 2(4 choose 2)-th Birthday](https://sites.lsa.umich.edu/speyer/conferences/jim/), MIT, Cambridge, MA** (June 2024)
+* **[The Many Combinatorial Legacties of Richard P. Stanley, Immense Birthday Glory of the Epic Catalonian Rascal](https://www.math.harvard.edu/event/math-conference-honoring-richard-p-stanley/)， Harvard University, Cambridge, MA** (June 2024)
 
 ## Selected Graduate Coursework at MIT
 * **18.917 Topics in Algebraic Topology** 
