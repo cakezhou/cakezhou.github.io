@@ -19,8 +19,8 @@ author_profile: true
   <br>
   
   <p style="text-align: center; font-style: italic; font-family: serif; color: #555; margin-top: 15px; font-size: 1.1em;">
-    Outside of math, I explore art, music, and philosophy.<br> 
-    This page displays some of my favorite paintings (photos taken by me). 
+    Outside of math, I enjoy art, music, and philosophy.<br> 
+    This page displays some of my adored paintings (photos taken by me). 
   </p>
 </div>
 
@@ -45,19 +45,18 @@ author_profile: true
         Music
       </h3>
       <p style="line-height: 1.8; font-size: 1.05em; margin-top: 0;">
-        I like playing the piano and singing. I currently perform with the Wellesley College Chamber Singers. 
+        I like playing the piano and singing. This school year I am performing with the Wellesley College Chamber Singers. 
       </p>
       
       <div style="margin-top: 20px; border-left: 3px solid #ddd; padding-left: 15px;">
         <p style="margin-bottom: 10px;">
-          Wellesley College Choral Concert<br>
+          Fall Concert<br>
           <a href="https://youtu.be/gKQ24bJIxIQ?si=FHXowmSVR6CKKS5d&t=599" target="_blank" style="text-decoration: none; color: #b76e79;">
             ▶ Watch on YouTube (Starts at 9:59)
           </a>
         </p>
         <p>
-          Beethoven Symphony No. 9
-          <span style="font-size: 0.9em;">with Brandeis Wellesley Orchestra</span><br>
+          Beethoven Symphony No. 9 with Brandeis Wellesley Orchestra<br>
           <a href="https://youtu.be/GosJQI7p7-Q?si=T1LhQ5ErSf0hVbM1&t=3410" target="_blank" style="text-decoration: none; color: #b76e79;">
             ▶ Watch on YouTube (Starts at 56:50)
           </a>
@@ -91,10 +90,10 @@ author_profile: true
 
     <div style="flex: 1.3; min-width: 300px; margin-top: 60px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
       <h3 style="margin-top: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 1.1em; color: #333;">
-        Philosophy & Paradox
+        Philosophy
       </h3>
       <p style="line-height: 1.8; color: #444; font-size: 1.05em; margin-bottom: 0;">
-        I turn to philosophy for the same reason I do math: I enjoy the peace of mind that comes from thinking rigorously about difficult things. I like metaphysics and epistemology, where I challenge my intuitions on knowledge and existence, and explore how mathematics fits into the picture.
+        I am drawn to philosophy for the peace of mind that comes from thinking rigorously about difficult things. Questions in metaphysics and epistemology challenge my intuition on knowledge and existence, and explore how mathematics fits into the picture.
       </p>
     </div>
 
@@ -104,7 +103,7 @@ author_profile: true
     
     <div style="flex: 1.3; min-width: 300px; padding: 30px; background-color: #fcfcfc; border-radius: 2px; border-left: 5px solid #d48c9e; box-shadow: 2px 2px 15px rgba(0,0,0,0.05);">
        <p style="margin-top: 0; margin-bottom: 15px; font-weight: bold; color: #555;">
-        Paradoxes I’ve been enjoying recently:
+        Paradoxes I’ve been pondering recently:
       </p>
       <ul style="line-height: 1.9; color: #444; list-style-type: square; padding-left: 20px; margin-bottom: 0;">
         <li style="margin-bottom: 12px;">
