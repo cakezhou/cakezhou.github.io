@@ -93,7 +93,7 @@ author_profile: true
         Philosophy
       </h3>
       <p style="line-height: 1.8; color: #444; font-size: 1.05em; margin-bottom: 0;">
-        I am drawn to philosophy for the peace of mind that comes from thinking rigorously about difficult things. Questions in metaphysics and epistemology challenge my intuition on knowledge and existence, and explore how mathematics fits into the picture.
+        I am drawn to philosophy for the peace of mind that comes from thinking rigorously about difficult things. I like questions in metaphysics and epistemology for they challenge our intuition on knowledge and existence. Mathematics often holds a special place in such investigation. 
       </p>
     </div>
 
