@@ -107,10 +107,10 @@ author_profile: true
       </p>
       <ul style="line-height: 1.9; color: #444; list-style-type: square; padding-left: 20px; margin-bottom: 0;">
         <li style="margin-bottom: 12px;">
-          <strong>Zeno’s Paradoxes:</strong> Why motion shouldn't be possible, and what the continuum really looks like.
+          <strong>Zeno’s Paradoxes:</strong> Is motion possible? Infinity, limits, continuity...
         </li>
         <li>
-          <strong>The Skeptic’s Life:</strong> Finding tranquility by admitting you don't know (<em>epoché</em>).
+          <strong>The Skeptic’s Life:</strong> What is knowledge? Is knowledge apprehensible? The skeptics claim that they are investigating without forming any beliefs...but are they really...
         </li>
       </ul>
     </div>
