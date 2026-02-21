@@ -15,7 +15,7 @@ author_profile: true
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
 <br> *with Peter May, Kyle Roke, Jason Liu, and Hongyi Zhang*
 <br> *UChicago REU 2025*
-<br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: Rfunctor">Draft available upon request by email.</a>
+<br> **Status:** [PDF Available](https://math.uchicago.edu/~may/REU2025/REUPapers/Rfunctor.pdf)
 
 <blockquote style="font-style: normal; font-size: 0.9em;">
   <strong>Abstract:</strong> The goal of this paper to obtain an isomorphism of categories that is the heart of a simple multiplicative functor from a category of operadic pseudoalgebras to a category of Segalic pseudoalgebras. This fits into a nonequivariant version of highly structured algebraic $K$-theory, from symmetric monoidal categories to orthogonal spectra. In particular, it gives a functor from symmetric bimonoidal categories to $E_\infty$ ring spectra.
@@ -24,7 +24,7 @@ author_profile: true
 **Unbiased Characterization of Symmetric Monoidal Categories**
 <br> *with Kyle Roke, Jason Liu, and Hongyi Zhang*
 <br> *UChicago REU 2025*
-<br> **Status:** In final review process. <a href="mailto:kz105@wellesley.edu?subject=Request for draft: SymmMon">Draft available upon request by email.</a>
+<br> **Status:** <a href="mailto:kz105@wellesley.edu?subject=Request for draft: SymmMon"> PDF available upon request by email.</a>
 
 <blockquote style="font-style: normal; font-size: 0.9em;">
   <strong>Abstract:</strong> In this paper, we aim to provide a characterization of symmetric monoidal categories, identifying them as the natural inputs for the equivariant multiplicative infinite loop space machine developed in \cite{GMMO3}. Specifically, we give a self-contained proof of an equivalence between the category of symmetric monoidal categories and the category of $\PP$-pseudoalgebras, where $\PP$ is the categorical Barratt-Eccles operad. Unlike the previous approach by Yau \cite{Yau2}, we establish this equivalence without assuming normality of the operads or the corresponding categories. We construct explicit functors between these categories and demonstrate that they form an equivalence.
