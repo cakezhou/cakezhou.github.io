@@ -15,7 +15,7 @@ author_profile: true
 **Symmetric Monoidal Categories, $\mathcal{P}$-Pseudoalgebras, and $\Gamma$-Categories**
 <br> *with Peter May, Kyle Roke, Jason Liu, and Hongyi Zhang*
 <br> *UChicago REU 2025*
-<br> **Status:** [PDF Available](https://math.uchicago.edu/~may/REU2025/REUPapers/Rfunctor.pdf)
+<br> **Status:** [PDF Available.](https://math.uchicago.edu/~may/REU2025/REUPapers/Rfunctor.pdf)
 
 <blockquote style="font-style: normal; font-size: 0.9em;">
   <strong>Abstract:</strong> The goal of this paper to obtain an isomorphism of categories that is the heart of a simple multiplicative functor from a category of operadic pseudoalgebras to a category of Segalic pseudoalgebras. This fits into a nonequivariant version of highly structured algebraic $K$-theory, from symmetric monoidal categories to orthogonal spectra. In particular, it gives a functor from symmetric bimonoidal categories to $E_\infty$ ring spectra.
